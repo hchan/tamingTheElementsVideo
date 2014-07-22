@@ -3,11 +3,15 @@ a Garrion of elementals.
 Your garrison is your collection of elementals, that you gain throughout the game by capturing other elementals.
 You begin the game with just one elemental, but in this saved instance,
 which is near the end game, I have collected all 12 playable characters, each having different abilities.
-Besides abilities, each character will have different attributes such as health, speed and elemental type.  The elemental type dictates the amount of damage that you can do against another elemental.  There are 4 types of elementals: earth, fire, air and water.
+Besides abilities, each character will have different attributes such as health, speed and elemental type.  
+The elemental type dictates the amount of damage that you can do against another elemental.  
+There are 4 types of elementals: earth, fire, air and water.
 
 The main play for this game is in the battleground.
-In the later chapters of this game, you will form a team of 3 elementals of your choosing in your garrison.  After you select your team, you can enter the battleground and try to gain XP by defeating the opposing team.
-As each character has different playing styles against the opposing team, you can swap characters within your team during the battle.
+In the later chapters of this game, you will form a team of 3 elementals of your choosing in your garrison.  
+After you select your team, you can enter the battleground and try to gain XP by defeating the opposing team.
+As each character has different playing styles against the opposing team, 
+you can swap characters within your team during the battle.
 Strategize on which one of your elementals would do best against the current
 opponent.  You should also time your swapping not just based upon the
 opposing team's roster and current opponent but also on your cooldowns
@@ -20,3 +24,20 @@ When a player swaps with a teammate, the member that just tagged in will
 be teleported to the starting position of the battle.  This teleportation
 feature can also be used as a strategy to move away quickly from melee
 attackers.
+
+As mentioned earlier, your garrison is your collection of elementals.
+During the battleground, you can capture other elementals.  When a character in the opposing
+team is weak (having < 25% health), you can capture that elemental.
+You can capture all three elementals of your opposing team, however note that if
+you lose the battle, the captured elementals will not be added to your garrison.
+
+Should you find the battleground too difficult, you change change the difficulty
+settings under the main menu's settings.  Alternatively, if you wish to practice your
+character's abilities, there is also a Practice mode.
+Practice your debuffs, swapping and timing of your captures in Practice mode.
+
+When you have mastered your abilities and your characters have reached a sufficient
+level by gaining XP, you have a chance to complete the story in the game, which
+is to restore balance to the planet Pria to its once glorious state.  To do so,
+you must form your strongest team in your garrison and enter the portal and defeat
+the disturbance on the other side.
