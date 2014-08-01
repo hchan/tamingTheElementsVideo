@@ -1,15 +1,17 @@
 Taming the Elements is an arena-combat/strategy game about leveling and building
 a Garrion of elementals.
 Your garrison is your collection of elementals, that you gain throughout the game by capturing other elementals.
-You begin the game with just one elemental, but in this saved instance,
-which is near the end game, I have collected all 12 playable characters, each having different abilities.
+You begin the game with just one elemental and your mission is to gain XP and later capture other elementals.
+
+There are a total of 12 different elementals aka character, each having different abilities.
 Besides abilities, each character will have different attributes such as health, speed and elemental type.  
 The elemental type dictates the amount of damage that you can do against another elemental.  
 There are 4 types of elementals: earth, fire, air and water.
 
 The main play for this game is in the battleground.
 In the later chapters of this game, you will form a team of 3 elementals of your choosing in your garrison.  
-After you select your team, you can enter the battleground and try to gain XP by defeating the opposing team.
+After you select your team, you  enter the battleground and try to gain XP by defeating the opposing team or
+capture opponents.
 As each character has different playing styles against the opposing team, 
 you can swap characters within your team during the battle.
 Strategize on which one of your elementals would do best against the current
