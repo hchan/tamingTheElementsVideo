@@ -1,25 +1,27 @@
 Taming the Elements is an arena-combat/strategy game about leveling and building
 a Garrion of elementals.
 Your garrison is your collection of elementals, that you gain throughout the game by capturing other elementals.
-You begin the game with just one elemental and your mission is to gain XP and later capture other elementals.
+You begin the game with just one elemental and your mission is to gain XP and then later capture other elementals.
 
 There are a total of 12 different elementals aka character, each having different abilities.
 Besides abilities, each character will have different attributes such as health, speed and elemental type.  
 The elemental type dictates the amount of damage that you can do against another elemental.  
-There are 4 types of elementals: earth, fire, air and water.
+For example, there are 4 types of elementals: earth, fire, air and water.
+Water elementals will do more damage against fire elementals.
 
 The main play for this game is in the battleground.
 In the later chapters of this game, you will form a team of 3 elementals of your choosing in your garrison.  
-After you select your team, you  enter the battleground and try to gain XP by defeating the opposing team or
-capture opponents.
-As each character has different playing styles against the opposing team, 
+After you select your team, you  enter the battleground and try to gain XP by defeating the opposing team.
+
+As each character has different advantages and disadvantages over other characters,
 you can swap characters within your team during the battle.
+
 Strategize on which one of your elementals would do best against the current
 opponent.  You should also time your swapping not just based upon the
 opposing team's roster and current opponent but also on your cooldowns
 and HealthBar.  
 Rest your current character in the battleground by tagging in another
-character via an action hotkey.  Non-active aka benched characters in battle
+character.  Non-active aka benched characters in battle
 gain rest HP overtime up to half of the amount of damage done in the
 previous swap.
 When a player swaps with a teammate, the member that just tagged in will
@@ -36,7 +38,7 @@ you lose the battle, the captured elementals will not be added to your garrison.
 Should you find the battleground too difficult, you change change the difficulty
 settings under the main menu's settings.  Alternatively, if you wish to practice your
 character's abilities, there is also a Practice mode.
-Practice your debuffs, swapping and timing of your captures in Practice mode.
+Practice your buffs, debuffs, swapping and timing of your captures in Practice mode.
 
 When you have mastered your abilities and your characters have reached a sufficient
 level by gaining XP, you have a chance to complete the story in the game, which
